@@ -1,4 +1,5 @@
 URL: https://aws.amazon.com/blogs/machine-learning/building-a-pictionary-style-game-with-aws-deeplens-and-amazon-alexa/
+
 This is a Guess My Drawing game sponsored by Amazon AWS DeepLens. 
 
 Guess My Drawing is an interactive drawing game between players and an Alexa echo device. An Amazon AWS DeepLens will capture what a player draws on a whiteboard or a white paper and inference the drawing to the most relevant object. This game is a great way for developers who are interested in deep-learning applications with DeepLens and exploring AWS services and how to connect DeepLens with Alexa Skills.
