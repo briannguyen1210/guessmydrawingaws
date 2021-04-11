@@ -196,7 +196,6 @@ def handle_start_game_intent(intent, session):
     'donut', 'elephant', 'eye', 'fish', 'flower', 'fork', 'hat', 'hexagon', 'hourglass', 'ice cream', 
     'ladder', 'lollipop', 'mug', 'paper clip', 'skateboard', 'snowflake', 'sun', 'sword', 'television', 'umbrella']
     
-    listOfObjects = ['snowflake', 'bowtie', 'ladder', 'umbrella', 'sun', 'donut', 'eye']
     objectDrawing = None
     session_attributes = get_session_attributes(session)
     
